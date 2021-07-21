@@ -17,6 +17,7 @@ Technically, our model capitalizes on three types of constraints: adversarial co
 ### IRVI Dataset
 Click [here]() to download IRVI dataset.
 
+![data_samples](img/samples.png)
 
 ## Installation
 The code is implemented with `Python(3.6)` and `Pytorch(1.9.0)` for `CUDA Version 11.2`
