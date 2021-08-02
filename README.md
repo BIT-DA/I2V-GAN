@@ -2,6 +2,15 @@
 This repository is the official Pytorch implementation for ACMMM2021 paper  
 "I2V-GAN: Unpaired Infrared-to-Visible Video Translation".  
 
+#### Traffic I2V Example:
+![compair_gif01](img/Comparison01.gif)
+
+#### Monitoring I2V Example:
+![compair_gif02](img/Comparison02.gif)
+
+#### Flower Translation Example:
+![compair_gif03](img/Comparison03.gif)
+
 ## Introduction  
 ### Abstract  
 Human vision is often adversely affected by complex environmental factors, especially in night vision scenarios. Thus, infrared cameras are often leveraged to help enhance the visual effects via detecting infrared radiation in the surrounding environment, but the infrared videos are undesirable due to the lack of detailed semantic information. In such a case, an effective video-to-video translation method from the infrared domain to the visible counterpart is strongly needed by overcoming the intrinsic huge gap between infrared and visible fields.  
