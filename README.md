@@ -60,4 +60,19 @@ If you find our work useful in your research or publication, please cite our wor
 
 
 #### Acknowledgements
-This code borrows heavily from the PyTorch implementation of [Cycle-GAN and Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). A huge thanks to them!
+This code borrows heavily from the PyTorch implementation of [Cycle-GAN and Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [RecycleGAN](https://github.com/aayushbansal/Recycle-GAN). A huge thanks to them!
+```
+@inproceedings{CycleGAN2017,
+  title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss},
+  author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
+  booktitle={Computer Vision (ICCV), 2017 IEEE International Conference on},
+  year={2017}
+}
+
+@inproceedings{Recycle-GAN,
+  author    = {Aayush Bansal and Shugao Ma and Deva Ramanan and Yaser Sheikh},
+  title     = {Recycle-GAN: Unsupervised Video Retargeting},
+  booktitle   = {ECCV},
+  year      = {2018},
+}
+```
