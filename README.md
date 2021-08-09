@@ -28,6 +28,7 @@ Technically, our model capitalizes on three types of constraints: adversarial co
 
 ![data_samples](img/samples.png)
 
+#### Data Structure
 <table >
   <tr>
     <td colspan="2">SUBSET</td>
@@ -73,7 +74,6 @@ Technically, our model capitalizes on three types of constraints: adversarial co
     <td >188</td>
     <td >940</td>
   </tr>
-
 </table>
 
 ## Installation
