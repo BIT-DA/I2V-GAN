@@ -108,7 +108,8 @@ If you find our work useful in your research or publication, please cite our wor
 
 
 #### Acknowledgements
-This code borrows heavily from the PyTorch implementation of [Cycle-GAN and Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [RecycleGAN](https://github.com/aayushbansal/Recycle-GAN). A huge thanks to them!
+This code borrows heavily from the PyTorch implementation of [Cycle-GAN and Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [RecycleGAN](https://github.com/aayushbansal/Recycle-GAN).  
+A huge thanks to them!
 ```
 @inproceedings{CycleGAN2017,
   title     = {Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss},
