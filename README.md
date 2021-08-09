@@ -28,6 +28,54 @@ Technically, our model capitalizes on three types of constraints: adversarial co
 
 ![data_samples](img/samples.png)
 
+<table >
+  <tr>
+    <td colspan="2">SUBSET</td>
+    <td>TRAIN</td>
+    <td>TEST</td>
+    <td colspan="2">TOTAL FRAME</td>
+  </tr>
+  <tr>
+    <td colspan="2">Traffic</td>
+    <td>17000</td>
+    <td>1000</td>
+    <td colspan="2">18000</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Mornitoring</td>
+    <td >sub-1</td>
+    <td >1384</td>
+    <td >347</td>
+    <td >1731</td>
+    <td rowspan="5">6352</td>
+  </tr>
+  <tr>
+    <td >sub-2</td>
+    <td >1040</td>
+    <td >260</td>
+    <td >1300</td>
+  </tr>
+  <tr>
+    <td >sub-3</td>
+    <td >1232</td>
+    <td >308</td>
+    <td >1540</td>
+  </tr>
+  <tr>
+    <td >sub-4</td>
+    <td >672</td>
+    <td >169</td>
+    <td >841</td>
+  </tr>
+  <tr>
+    <td >sub-5</td>
+    <td >752</td>
+    <td >188</td>
+    <td >940</td>
+  </tr>
+
+</table>
+
 ## Installation
 The code is implemented with `Python(3.6)` and `Pytorch(1.9.0)` for `CUDA Version 11.2`
 
@@ -63,16 +111,16 @@ If you find our work useful in your research or publication, please cite our wor
 This code borrows heavily from the PyTorch implementation of [Cycle-GAN and Pix2Pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [RecycleGAN](https://github.com/aayushbansal/Recycle-GAN). A huge thanks to them!
 ```
 @inproceedings{CycleGAN2017,
-  title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss},
-  author={Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
-  booktitle={Computer Vision (ICCV), 2017 IEEE International Conference on},
-  year={2017}
+  title     = {Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss},
+  author    = {Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A},
+  booktitle = {ICCV},
+  year      = {2017}
 }
 
 @inproceedings{Recycle-GAN,
-  author    = {Aayush Bansal and Shugao Ma and Deva Ramanan and Yaser Sheikh},
   title     = {Recycle-GAN: Unsupervised Video Retargeting},
-  booktitle   = {ECCV},
+  author    = {Aayush Bansal and Shugao Ma and Deva Ramanan and Yaser Sheikh},
+  booktitle = {ECCV},
   year      = {2018},
 }
 ```
