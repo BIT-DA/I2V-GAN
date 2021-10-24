@@ -104,10 +104,10 @@ python test.py --dataroot /path/to/dataset \
 If you find our work useful in your research or publication, please cite our work:  
 ```
 @inproceedings{I2V-GAN2021,
-  title = {I2V-GAN: Unpaired Infrared-to-Visible Video Translation},
-  author = {Shuang Li and Bingfeng Han and Zhenjie Yu and Chi Harold Liu and Kai Chen and Shuigen Wang},
+  title     = {I2V-GAN: Unpaired Infrared-to-Visible Video Translation},
+  author    = {Shuang Li and Bingfeng Han and Zhenjie Yu and Chi Harold Liu and Kai Chen and Shuigen Wang},
   booktitle = {ACMMM},
-  year = {2021}
+  year      = {2021}
 }
 ```
 
