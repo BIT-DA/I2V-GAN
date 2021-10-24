@@ -103,7 +103,12 @@ python test.py --dataroot /path/to/dataset \
 ## Citation
 If you find our work useful in your research or publication, please cite our work:  
 ```
-
+@inproceedings{I2V-GAN2021,
+  title = {I2V-GAN: Unpaired Infrared-to-Visible Video Translation},
+  author = {Shuang Li and Bingfeng Han and Zhenjie Yu and Chi Harold Liu and Kai Chen and Shuigen Wang},
+  booktitle = {ACMMM},
+  year = {2021}
+}
 ```
 
 
@@ -118,10 +123,10 @@ A huge thanks to them!
   year      = {2017}
 }
 
-@inproceedings{Recycle-GAN,
+@inproceedings{Recycle-GAN2018,
   title     = {Recycle-GAN: Unsupervised Video Retargeting},
   author    = {Aayush Bansal and Shugao Ma and Deva Ramanan and Yaser Sheikh},
   booktitle = {ECCV},
-  year      = {2018},
+  year      = {2018}
 }
 ```
