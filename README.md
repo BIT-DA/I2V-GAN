@@ -95,9 +95,9 @@ python train.py --dataroot /path/to/dataset \
 ### Test
 ```
 python test.py --dataroot /path/to/dataset \
---which_epoch latest --name exp_name --model i2vgan \
+--which_epoch latest --name exp_name --model cycle_gan \
 --which_model_netG resnet_6blocks --which_model_netP unet_128 \
---dataset_mode unaligned --no_dropout --loadSize 256
+--dataset_mode unaligned --no_dropout --loadSize 256 --resize_or_crop crop
 ```
 
 ## Citation
