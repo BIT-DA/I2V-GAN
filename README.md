@@ -89,6 +89,7 @@ Install dependencies:
 python train.py --dataroot /path/to/dataset \
 --display_env visdom_env_name --name exp_name \
 --model i2vgan --which_model_netG resnet_6blocks \
+--no_dropout --pool_size 0 \
 --which_model_netP unet_128 --npf 8 --dataset_mode unaligned_triplet
 ```
 
