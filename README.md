@@ -24,7 +24,7 @@ Technically, our model capitalizes on three types of constraints: adversarial co
 ![network-all](img/network.png)
 
 ### IRVI Dataset
-[Click here](https://pan.baidu.com/s/1WrfRbDEc7-1q0A9KiTToPA) to download IRVI dataset from Baidu Netdisk. Access code: `IRVI`.
+Download from [Baidu Netdisk](https://pan.baidu.com/s/1WrfRbDEc7-1q0A9KiTToPA) (Access code: `IRVI`) or [Google Drive](https://drive.google.com/file/d/1ZcJ0EfF5n_uqtsLc7-8hJgTcr2zHSXY3/view?usp=sharing).
 
 ![data_samples](img/samples.png)
 
