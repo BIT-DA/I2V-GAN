@@ -2,7 +2,7 @@
 This repository is the official Pytorch implementation for ACMMM2021 paper  
 "I2V-GAN: Unpaired Infrared-to-Visible Video Translation".  
 
-#### Traffic I2V Example:
+#### Traffic I2V Example: (Download a pretrained model from [Baidu Netdisk](https://pan.baidu.com/s/1tKpsENwnUEaSdsCvnBzm8Q?pwd=Traf) [Access code: `Traf`] or [Google drive](https://drive.google.com/file/d/1jpSmMvAqjffEnWzPLD1OR8aODoOmG4vy/view?usp=sharing))
 ![compair_gif01](img/Comparison01.gif)
 
 #### Monitoring I2V Example:
@@ -24,7 +24,7 @@ Technically, our model capitalizes on three types of constraints: adversarial co
 ![network-all](img/network.png)
 
 ### IRVI Dataset
-Download from [Baidu Netdisk](https://pan.baidu.com/s/1WrfRbDEc7-1q0A9KiTToPA) (Access code: `IRVI`) or [Google Drive](https://drive.google.com/file/d/1ZcJ0EfF5n_uqtsLc7-8hJgTcr2zHSXY3/view?usp=sharing).
+Download from [Baidu Netdisk](https://pan.baidu.com/s/1og7bcuVDModuBJhEQXWPxg?pwd=IRVI) [Access code: `IRVI`] or [Google Drive](https://drive.google.com/file/d/1ZcJ0EfF5n_uqtsLc7-8hJgTcr2zHSXY3/view?usp=sharing).
 
 ![data_samples](img/samples.png)
 
